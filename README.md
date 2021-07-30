@@ -1,7 +1,7 @@
 ### Hello I'm Josmar👋
 
 - 🔭 I'm currently working on the front-end
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Typescript
 
 <div>
   <a href="https://github.com/josmar-jr">
