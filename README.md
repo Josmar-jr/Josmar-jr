@@ -1,7 +1,12 @@
-### Hello I'm Josmar👋
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&color=%234C8EDA&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Welcome+to+my+Github+page!;Hi%2C+I'm+Josmar+Junior!;A+dev+in+love+with;web+development!)](https://git.io/typing-svg)
+  
+</h1>
 
-- 🔭 I'm currently working on the front-end
-- 🌱 I’m currently learning Typescript
+| Change Language                                                                                                       | Mudar Lingua                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
 
 <div>
   <a href="https://github.com/josmar-jr">
@@ -27,7 +32,6 @@
 
   <a href="https://www.linkedin.com/in/josmar-junior-2ab137204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
