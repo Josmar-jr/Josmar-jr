@@ -7,12 +7,6 @@
 | Change Language                                                                                                       | Mudar Lingua                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [![English](https://img.shields.io/badge/English-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README.md) | [![Português](https://img.shields.io/badge/português-green?style=for-the-badge&color=050F2C&logoColor=4C8EDA)](README_pt.md) | [Português](README_pt.md) |
-
-<div>
-  <a href="https://github.com/josmar-jr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josmar-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josmar-jr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
  ##
   
